@@ -12,3 +12,8 @@ The Top 5 most popular neighborhoods based the number of their listings are as f
 3. Downtown/Civic Center
 4. South of Market
 5. Castro/Upper Market
+
+Least_Expensive SQL pull:
+- Using the query titled 'Least_Expensive', we can see what the cheapest time to go to San Francisco would be:
+Based on the query, it looks like the cheapest times to go to San Francisco would be in September and October
+
