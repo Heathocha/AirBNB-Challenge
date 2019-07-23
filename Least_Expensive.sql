@@ -1,12 +1,12 @@
 SELECT
-	COUNT (price),
-	price,
-	calender_date
+	EXTRACT (MONTH FROM calender_date) as MTH,
+	AVG (CAST (REPLACE (REPLACE (price,'$',''),',','') AS FLOAT)) as AveragePrice
+	
 FROM
 	sfo_calendar
 GROUP BY
-	calender_date,
-	price
+	MTH
 ORDER BY 
-	price ASC
+	AveragePrice ASC
+
 
