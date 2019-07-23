@@ -17,6 +17,6 @@ Least_Expensive SQL pull:
 - Using the query titled 'Least_Expensive', we can see what the cheapest time to go to San Francisco would be:
 Based on the query, it looks like the cheapest times to go to San Francisco would be in the winter - January and February being the cheapest.  It might be more expensive to go during the holidays, but when you take them out, the winter months seem to be the cheapest times to go to San Francisco.
 
-Most_Expensive_Days SQL pull:
-- Using the query titled 'Most_Expensive_Days', we can see waht the most expensive times to go to San Francisco would be:
-Based on the query, it looks liker the summer months are the most expensive times to go to San Francisco (June - August)
+Expensive_Times SQL pull:
+- Using the query titled 'Expensive_Times', we can see waht the most expensive times to go to San Francisco would be:
+Based on the query, it looks like early fall months are the most expensive times to go to San Francisco (September and October).
